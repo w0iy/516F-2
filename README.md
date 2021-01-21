@@ -1,6 +1,13 @@
 # 516F-2
 Docs to accompany kit for Collins 516F-2 S-Line Power Supply
 
+<<< --- How to access the files ---- >>>
+This is NOT DIFFICULT. No special Github skills required.
+On the right of the screen above is a GREEN button labelled "CODE".
+Click on CODE. 
+There will be a popup window; select DOWNLOAD ZIP.  This will download all of the files
+at once. You will then have your own copy on your pc.
+
 These are files with instructions, figures and photos of the installation of Service Bulletin 1 to the Collins 516F-2 Power Supply. 
 This SB uses a PCB and updates the capacitors to modern smaller types available from multiple vendors (in slightly varying diameters 
 and lengths). It also provides for solid state rectifiers, should you desire. There is also an update to the Bias circuit that slsightly
