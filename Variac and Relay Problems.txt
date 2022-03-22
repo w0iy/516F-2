@@ -7,8 +7,8 @@ relay, possibly burning the contacts.
 
 If you are going to use a variac:
 1. Open the relay coil by lifting one of the leads to the PCB. Tape the open wire end. 
-2. Short/bypass the relay NO output. You can do this by temporarily soldering the PCB relay output
-   (Common and NO) pads together. 
+2. Short/bypass the relay NO output. You can do this by temporarily soldering the PCB relay output (Common and NO) pads together. 
+
 This removes the relay from the circuit and you can bring the PS up slowly with the variac.
 Consult the schematic to understand how this isolates the relay. 
 
